@@ -1,21 +1,7 @@
-# ecommerce-template
+# Installation Guide
 
+1.Clone this repo
 
-# Installation
+2.on Terminal input npm install to install all packages(if facing error delete packet.json )
 
-To install and run the React quiz app locally, follow these steps:
-
-1. Clone the repository:
-    git clone [repository-url]
-
-2. Navigate to the project directory:
-    cd quiz-app
-
-3. Install the dependencies:
-    npm install
-
-4. Start the development server:
-    npm start
-
-5. browser at http://localhost:3000.
-
+3.run npm start
