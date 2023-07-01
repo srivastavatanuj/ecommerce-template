@@ -1,7 +1,17 @@
-# Installation Guide
+# Installation
 
-1.Clone this repo
+To install and run the React quiz app locally, follow these steps:
 
-2.on Terminal input npm install to install all packages(if facing error delete packet.json )
+1. Clone the repository:
+    git clone [repository-url]
 
-3.run npm start
+2. Navigate to the project directory:
+    cd quiz-app
+
+3. Install the dependencies:
+    npm install
+
+4. Start the development server:
+    npm start
+
+5. browser at http://localhost:3000.
