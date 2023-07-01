@@ -23,7 +23,9 @@ To install and run the React quiz app locally, follow these steps:
 
 
 # Mobile view
-![WhatsApp Image 2023-07-02 at 12 42 40 AM](https://github.com/srivastavatanuj/ecommerce-template/assets/73632086/cb875644-c3c9-4366-a7ea-6e2e612d8620)
+<img src="https://github.com/srivastavatanuj/ecommerce-template/assets/73632086/cb875644-c3c9-4366-a7ea-6e2e612d8620" width=50% height=50%>
+
+
 
 
 
